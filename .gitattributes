@@ -1,0 +1,5 @@
+*.tflite filter=lfs diff=lfs merge=lfs -text
+Model_Klasifikasi/keras_model1.h5 filter=lfs diff=lfs merge=lfs -text
+Model_Klasifikasi/keras_model2.h5 filter=lfs diff=lfs merge=lfs -text
+static/logo_fishstatik.webp filter=lfs diff=lfs merge=lfs -text
+static/images/logo_fishstatik.webp filter=lfs diff=lfs merge=lfs -text
